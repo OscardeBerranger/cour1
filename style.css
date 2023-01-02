@@ -1,0 +1,16 @@
+.pastilleVerte{
+    width: 10px;
+    height: 10px;
+    background-color: forestgreen;
+    border-radius: 100%;
+}
+.pastilleRouge{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 100%;
+}
+.sized{
+    width: 20px;
+    height: 20px;
+}
